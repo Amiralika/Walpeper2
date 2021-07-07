@@ -1,36 +1,72 @@
 [
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/4d849bda18ea2e4fc8d09be7446d08dfjpg"
+    "عکس2": "https://s4.uupload.ir/files/078_(1)_syp_6tmt.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/2f554e57cd4d4068260c614cd4865d85jpg"
+    "عکس2": "https://s4.uupload.ir/files/077_(1)_7nph_2n22.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/052e74d3f740496cff16064b032f0cc2jpg"
+    "عکس2": "https://s4.uupload.ir/files/076_(1)_acgt_xu30.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/cd054a2739fc37d03755387464306cf1jpg"
+    "عکس2": "https://s4.uupload.ir/files/075_(1)_cwj6_p6pj.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/1a087034c604f8ad0f858bb400b88bc1jpg"
+    "عکس2": "https://s4.uupload.ir/files/074_(1)_kvim_9u6f.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/cbc33c22ff6a424095e066f1e1d7bffbjpg"
+    "عکس2": "https://s4.uupload.ir/files/073_(1)_xotf_fdhg.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/cbc33c22ff6a424095e066f1e1d7bffbjpg"
+    "عکس2": "https://s4.uupload.ir/files/072_(1)_hipm_qk3o.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/dd7f3db4eca82910b6529f8546e9bda3jpg"
+    "عکس2": "https://s4.uupload.ir/files/071_lwc3_uhz7.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/36dd67951bef7fc1c7b6fc9c1d738413jpg"
+    "عکس2": "https://s4.uupload.ir/files/070_58uq_d67w.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/07ec52c1bb8d564d36c29baa94c9863fjpg"
+    "عکس2": "https://s4.uupload.ir/files/069_yiwl_qmo.jpg"
   },
   {
-    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/mobile/072.jpg"
+    "عکس2": "https://s4.uupload.ir/files/068_q1x6_b4rv.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/067_mnfe_3zj7.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/066_u2ma_lmij.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/065_2lli_fwum.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/063_wiz_cx00.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/058_nd5d_k003.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/057_b2x6_ow6.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/056_468p_t9pb.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/055_mpz7_rmzc.jpg"
+  },
+  {
+    "عکس2": "https://s4.uupload.ir/files/054_gzxc_ns9i.jpg"
+  },
+  {
+    "عکس2": ""
+  },
+  {
+    "عکس2": ""
+  },
+  {
+    "عکس2": ""
   },
   {
     "عکس2": ""
